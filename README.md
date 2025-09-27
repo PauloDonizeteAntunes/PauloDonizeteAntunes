@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>#Paulo Donizete</h1>
+  <h1>Paulo Donizete</h1>
   <p>Desenvolvedor com foco em sistemas embarcados, atualmente criando soluções para a família ESP32 utilizando C/C++ e o framework ESP-IDF.</p>
 </div>
 
